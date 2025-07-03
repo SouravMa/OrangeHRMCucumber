@@ -7,8 +7,6 @@ import org.openqa.selenium.support.FindBy;
 
 public class RecruitmentPage extends BasePage{
 
-	public WebDriver driver;
-	
 	public RecruitmentPage(WebDriver driver) {
 		super(driver);
 	}

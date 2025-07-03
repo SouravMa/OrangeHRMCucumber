@@ -6,8 +6,7 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends BasePage{
-
-	public WebDriver driver;
+	
 	public HomePage(WebDriver driver) {
 		super(driver);
 	}
@@ -31,6 +30,10 @@ public class HomePage extends BasePage{
 	@FindBy(xpath= "//a[contains(@href, 'Pim')]")
 	@CacheLookup
 	public WebElement pimModule;
+	
+	@FindBy(xpath= "//a[contains(@href, 'Admin')]")
+	@CacheLookup
+	public WebElement adminModule;
 	
 	public void clickOnSearch() {
 		searchInput.click();

@@ -7,17 +7,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 
-import stepDefinitions.Steps;
-
 public class PIMPage extends BasePage{
 
-public WebDriver driver;
-	
 	public PIMPage(WebDriver driver) {
 		super(driver);
 	}
-	
-	Steps steps= new Steps();
 	
 	@FindBy(xpath= "//h6[text()= 'PIM']")
 	@CacheLookup

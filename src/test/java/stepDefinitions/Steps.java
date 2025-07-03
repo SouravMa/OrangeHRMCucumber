@@ -1,19 +1,17 @@
 package stepDefinitions;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import io.cucumber.java.en.*;
+import pageObjects.AdminPage;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.PIMPage;
 import pageObjects.RecruitmentPage;
 
-import java.time.Duration;
 
 import org.junit.Assert;
 
@@ -35,6 +33,7 @@ public class Steps extends BaseClass{
 		hp= new HomePage(driver);	
 		rp= new RecruitmentPage(driver);
 		pp= new PIMPage(driver);
+		ap= new AdminPage(driver);
 	
 	}
 	
@@ -167,6 +166,48 @@ public class Steps extends BaseClass{
 		pp.searchedEmployeeName.isDisplayed();
 		String searchedName= firstName+" "+middleName;
 		Assert.assertEquals(pp.searchedEmployeeName.getText(), searchedName);
+	}
+	
+	//scenario outline for Users feature
+	@When("Enter the {string}, {string} and {string}")
+	public void enter_the_and(String firstName, String middleName, String lastName) {
+		pp.waitForElement(pp.firstNameInput, 30);
+		pp.enterFirstName(firstName);
+		pp.enterMiddleName(middleName);
+		pp.enterLastName(lastName);
+	}
+	@When("We enter {string}, {string} and {string} in the Employee Name field")
+	public void we_enter_and_in_the_employee_name_field(String firstName, String middleName, String lastName) {
+		pp.waitForElement(pp.employeeNameInput, 30);
+		pp.enterEmployeeName(firstName+" "+middleName+" "+lastName);
+	}
+	@Then("Employee name is fetched")
+	public void employee_name_is_fetched() {
+		pp.waitForElement(pp.searchedEmployeeName, 30);
+		pp.searchedEmployeeName.isDisplayed();
+	}
+	
+	//listing all admins:
+	@When("We click on Admin")
+	public void we_click_on_admin() {
+		hp.adminModule.click();
+	}
+
+	@Then("We should see the Admin header")
+	public void we_should_see_the_admin_header() {
+		ap.waitForElement(ap.adminPageHeader, 30);
+		ap.adminPageHeader.isDisplayed();
+	}
+
+	@Then("We should list down all the admins with their statuses")
+	public void we_should_list_down_all_the_admins_with_their_statuses() {
+		ap.listAllAdmins();
+	}
+	
+	//counting the number of enabled and disabled admins:
+	@Then("We count the number of enabled and disabled admins")
+	public void we_count_the_number_of_enabled_and_disabled_admins() {
+		ap.countEnabledAndDisabledUsers();
 	}
 	
 }
