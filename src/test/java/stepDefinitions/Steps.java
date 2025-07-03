@@ -1,6 +1,8 @@
 package stepDefinitions;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -8,6 +10,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.cucumber.java.en.*;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
+import pageObjects.PIMPage;
+import pageObjects.RecruitmentPage;
 
 import java.time.Duration;
 
@@ -17,6 +21,10 @@ import org.junit.Assert;
 
 public class Steps extends BaseClass{
 	
+	String firstName= generateRandomString(5);
+	String middleName= generateRandomString(5);
+	String lastName= generateRandomString(5);
+	
 	// login-logout:
 	
 	@Given("User launches chrome browser")
@@ -24,7 +32,10 @@ public class Steps extends BaseClass{
 		System.setProperty("webdriver.chrome.driver", "/Users/sourav.majhi/Documents/chromedriver-mac-x64/chromedriver");
 		driver= new ChromeDriver();
 		lp= new LoginPage(driver);
-		hp= new HomePage(driver);	   
+		hp= new HomePage(driver);	
+		rp= new RecruitmentPage(driver);
+		pp= new PIMPage(driver);
+	
 	}
 	
 	@When("Opens url: {string}")
@@ -34,8 +45,8 @@ public class Steps extends BaseClass{
 
 	@And("User enters email: {string} and password: {string}")
 	public void user_enters_email_and_password(String userName, String password) {
-		lp.waitForElement(lp.usernameInput, 20);
-		lp.waitForElement(lp.passwordInput, 20);
+		lp.waitForElement(lp.usernameInput, 30);
+		lp.waitForElement(lp.passwordInput, 30);
 		lp.enterUsername(userName);
 		lp.enterPassword(password);
 	}
@@ -47,7 +58,7 @@ public class Steps extends BaseClass{
 
 	@Then("We should see user dropdown")
 	public void we_should_see_user_dropdown() {
-		hp.waitForElement(hp.userDropdown, 20);
+		hp.waitForElement(hp.userDropdown, 30);
 		hp.userDropdown.isDisplayed();
 	}
 
@@ -63,13 +74,99 @@ public class Steps extends BaseClass{
 
 	@Then("We should see Login message")
 	public void we_should_see_login_message() {
-		lp.waitForElement(lp.loginMessage, 20);
+		lp.waitForElement(lp.loginMessage, 30);
 		lp.loginMessage.isDisplayed();
 	}
 
 	@And("Close the browser")
 	public void close_the_browser() {
 		driver.quit();
+	}
+	
+	// searching from menu:
+	@When("We click on search bar")
+	public void we_click_on_search_bar() {
+	    hp.clickOnSearch();
+	}
+
+	@When("Enter {string}")
+	public void enter(String string) {
+		hp.enterSearchInput(string);
+	}
+
+	@When("Click on it")
+	public void click_on_it() {
+		hp.clickOnSearchResult();
+	}
+
+	@Then("Recruitment module opens and we should see Recruitment header")
+	public void recruitment_module_opens_and_we_should_see_recruitment_header() {
+		rp.waitForElement(rp.recuitmentPageHeader, 30);
+		rp.recuitmentPageHeader.isDisplayed();
+	}
+	
+	//creating user:
+	@When("We click on PIM")
+	public void we_click_on_pim() {
+		hp.openPIMModule();
+	}
+
+	@Then("We should see the PIM header")
+	public void we_should_see_the_pim_header() {
+		pp.waitForElement(pp.pimPageHeader, 30);
+		pp.pimPageHeader.isDisplayed();
+	}
+
+	@When("we click on Add button")
+	public void we_click_on_add_button() {
+		pp.clickOnAddButton();
+	}
+
+	@And("Enter the required details")
+	public void enter_the_required_details() {
+		pp.waitForElement(pp.firstNameInput, 30);
+		pp.enterFirstName(firstName);
+		pp.enterMiddleName(middleName);
+		pp.enterLastName(lastName);
+	}
+	
+	@And("Save it")
+	public void save_it() {
+		pp.saveEmployeeDetails();
+	}
+
+	@Then("Employee gets added and we should see the employee header name")
+	public void employee_gets_added_and_we_should_see_the_employee_header_name() {
+		pp.waitForElement(pp.emmployeeNameHeader, 30);
+		pp.emmployeeNameHeader.isDisplayed();
+	}
+	
+	// search newly created user:
+	@When("We click on PIM module again")
+	public void we_click_on_pim_module_again() {
+		
+		//since it gives stale element exception
+		WebElement pimModule= driver.findElement(By.xpath("//a[contains(@href, 'Pim')]"));
+		pimModule.click();
+	}
+
+	@When("We enter employee name")
+	public void we_enter_employee_name() {
+		pp.waitForElement(pp.employeeNameInput, 30);
+		pp.enterEmployeeName(firstName+" "+middleName+" "+lastName);
+	}
+
+	@When("We click on Search button")
+	public void we_click_on_search_button() {
+		pp.searchEmployee();
+	}
+
+	@Then("Employee name is fetched and should be equal to the searched employee name")
+	public void employee_name_is_fetched_and_should_be_equal_to_the_searched_employee_name() {
+		pp.waitForElement(pp.searchedEmployeeName, 30);
+		pp.searchedEmployeeName.isDisplayed();
+		String searchedName= firstName+" "+middleName;
+		Assert.assertEquals(pp.searchedEmployeeName.getText(), searchedName);
 	}
 	
 }
