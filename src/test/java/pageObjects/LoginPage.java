@@ -4,32 +4,34 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 
-public class LoginPage {
-
+public class LoginPage extends BasePage{
+	
 	public WebDriver driver;
 	
-	public LoginPage(WebDriver driver){
-		this.driver= driver;
-		PageFactory.initElements(driver, this);
+	public LoginPage(WebDriver driver) {
+		super(driver);
 	}
 	
-	@FindBy(id= "input-email")
+	@FindBy(xpath= "//h5[text()= 'Login']")
 	@CacheLookup
-	public WebElement emailInput;
+	public WebElement loginMessage;
 	
-	@FindBy(id= "input-password")
+	@FindBy(xpath= "//input[@name= 'username']")
+	@CacheLookup
+	public WebElement usernameInput;
+	
+	@FindBy(xpath= "//input[@name= 'password']")
 	@CacheLookup
 	public WebElement passwordInput;
 	
-	@FindBy(xpath= "//input[@value= 'Login']")
+	@FindBy(xpath= "//button[@type= 'submit']")
 	@CacheLookup
 	public WebElement loginButton;
 	
-	public void enterUsername(String email) {
-		emailInput.clear();
-		emailInput.sendKeys(email);
+	public void enterUsername(String userName) {
+		usernameInput.clear();
+		usernameInput.sendKeys(userName);
 	}
 	
 	public void enterPassword(String password) {
@@ -40,5 +42,5 @@ public class LoginPage {
 	public void login() {
 		loginButton.click();
 	}
-	
+
 }

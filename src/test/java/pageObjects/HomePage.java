@@ -4,23 +4,27 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 
-public class HomePage {
-	
-	public WebDriver hdriver;
-	
+public class HomePage extends BasePage{
+
+	public WebDriver driver;
 	public HomePage(WebDriver driver) {
-		hdriver= driver;
-		PageFactory.initElements(driver, this);
+		super(driver);
 	}
 	
-	@FindBy(xpath= "//a[text()= 'Logout' and @class= 'list-group-item']")
+	@FindBy(xpath= "//li[contains(@class, 'userdropdown')]")
 	@CacheLookup
-	public WebElement logoutLink;
+	public WebElement userDropdown;
 	
-	public void logout() {
-		logoutLink.click();
+	@FindBy(xpath= "//a[text()= 'Logout']")
+	@CacheLookup
+	public WebElement logoutOption;
+	
+	public void openUserDropdown() {
+		userDropdown.click();
 	}
-
+	
+	public void logOut() {
+		logoutOption.click();
+	}
 }

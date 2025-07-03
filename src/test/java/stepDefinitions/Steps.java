@@ -2,39 +2,41 @@ package stepDefinitions;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.cucumber.java.en.*;
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+
+import java.time.Duration;
 
 import org.junit.Assert;
 
-import pageObjects.HomePage;
-import pageObjects.LoginPage;
-import pageObjects.PostLogoutPage;
 
-public class Steps {
+
+public class Steps extends BaseClass{
 	
-	public WebDriver driver;
-	public LoginPage lp;
-	public HomePage hp;
-	public PostLogoutPage plp;
+	// login-logout:
 	
 	@Given("User launches chrome browser")
 	public void user_launches_chrome_browser() {
 		System.setProperty("webdriver.chrome.driver", "/Users/sourav.majhi/Documents/chromedriver-mac-x64/chromedriver");
 		driver= new ChromeDriver();
-	    lp= new LoginPage(driver);
-	    hp= new HomePage(driver);
-	    plp= new PostLogoutPage(driver);
+		lp= new LoginPage(driver);
+		hp= new HomePage(driver);	   
 	}
-
+	
 	@When("Opens url: {string}")
 	public void opens_url(String url) {
 		driver.get(url);
 	}
 
 	@And("User enters email: {string} and password: {string}")
-	public void user_enters_email_and_password(String email, String password) {
-		lp.enterUsername(email);
+	public void user_enters_email_and_password(String userName, String password) {
+		lp.waitForElement(lp.usernameInput, 20);
+		lp.waitForElement(lp.passwordInput, 20);
+		lp.enterUsername(userName);
 		lp.enterPassword(password);
 	}
 
@@ -43,24 +45,33 @@ public class Steps {
 		lp.login();
 	}
 
-	@Then("We should be able to see Logout link")
-	public void we_should_be_able_to_see_logout_link() {
-		hp.logoutLink.isDisplayed();
+	@Then("We should see user dropdown")
+	public void we_should_see_user_dropdown() {
+		hp.waitForElement(hp.userDropdown, 20);
+		hp.userDropdown.isDisplayed();
 	}
 
-	@When("User clicks on Logout link")
-	public void user_clicks_on_logout_link() {
-		hp.logout();
+	@When("we click on user dropdown")
+	public void we_click_on_user_dropdown() {
+		hp.openUserDropdown();
 	}
 
-	@Then("The page header should be {string}")
-	public void the_page_header_should_be(String logoutHeader) {
-		Assert.assertEquals(plp.logoutHeader.getText(), logoutHeader);
+	@And("click on logout option")
+	public void click_on_logout_option() {
+		hp.logOut();
+	}
+
+	@Then("We should see Login message")
+	public void we_should_see_login_message() {
+		lp.waitForElement(lp.loginMessage, 20);
+		lp.loginMessage.isDisplayed();
 	}
 
 	@And("Close the browser")
 	public void close_the_browser() {
 		driver.quit();
 	}
-
+	
 }
+	
+
