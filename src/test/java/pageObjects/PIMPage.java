@@ -2,6 +2,7 @@ package pageObjects;
 
 import java.util.List;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
@@ -53,6 +54,18 @@ public class PIMPage extends BasePage{
 	@CacheLookup
 	public WebElement searchedEmployeeName;
 	
+	@FindBy(xpath= "(//div[@role= 'row'])[3]//div[3]//div")
+	@CacheLookup
+	public WebElement secondEmployeeForDeletion;
+	
+	@FindBy(xpath= "(//div[@role= 'row'])[3]//div[9]//button//i[contains(@class, 'trash')]")
+	@CacheLookup
+	public WebElement secondEmployeeDeleteOption;
+	
+	@FindBy(xpath= "//button[normalize-space()= 'Yes, Delete']")
+	@CacheLookup
+	public WebElement modalDeleteOption;
+	
 	public void clickOnAddButton() {
 		addEmployeeButton.click();
 	}
@@ -83,6 +96,14 @@ public class PIMPage extends BasePage{
 	
 	public void searchEmployee() {
 		employeeSearchButton.click();
+	}
+	
+	public void deleteSecondEmployee() {
+		secondEmployeeDeleteOption.click();
+	}
+	
+	public void clickOnModalDeleteOption() {
+		modalDeleteOption.click();
 	}
 	
 }

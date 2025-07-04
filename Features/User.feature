@@ -11,7 +11,6 @@ Feature: Create and search user
     Then We should see the PIM header
 
   Scenario: Create and Search User
-    Then We should see the PIM header
     When we click on Add button
     And Enter the required details 
     And Save it
@@ -21,9 +20,9 @@ Feature: Create and search user
     And We click on Search button
     Then Employee name is fetched and should be equal to the searched employee name
     And Close the browser
+
     
   Scenario Outline: Create and Search User
-  	Then We should see the PIM header
     When we click on Add button
     And Enter the "<firstName>", "<middleName>" and "<lastName>" 
     And Save it
@@ -39,9 +38,14 @@ Feature: Create and search user
   |Pappu|Katiya|Passport|
   |Ibu|Khiska|Hatela|
   |Bulla|Bhaukaal|Bhai|
-  	
-    
   
+  Scenario: Delete User
+    When We click on the delete button of the second employee
+    And Click on the Delete button of the pop-up
+    And We enter deleted employee name
+    And We click on Search button
+    Then Employee name should not be visible
+    And Close the browser
   	  
     
 	

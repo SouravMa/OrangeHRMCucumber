@@ -1,0 +1,453 @@
+2025-07-04 14:00:09,799 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 14:00:09,869 [main] INFO OrangeHRM - Launching url
+2025-07-04 14:00:15,688 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 14:00:24,483 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 14:00:24,915 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 14:00:43,065 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 14:00:44,638 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 14:00:51,870 [main] INFO OrangeHRM - ***** Listing down all the admins with their statuses *****
+2025-07-04 14:00:53,374 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 14:00:57,896 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 14:00:57,901 [main] INFO OrangeHRM - Launching url
+2025-07-04 14:01:01,886 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 14:01:11,126 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 14:01:11,452 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 14:01:27,445 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 14:01:28,977 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 14:01:39,277 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
+2025-07-04 14:01:40,337 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 14:28:10,237 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 14:28:10,299 [main] INFO OrangeHRM - Launching url
+2025-07-04 14:28:15,853 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 14:28:25,029 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 14:28:25,432 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 14:28:43,743 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 14:28:45,515 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 14:28:49,332 [main] INFO OrangeHRM - ***** Listing down all the admins with their statuses *****
+2025-07-04 14:28:55,855 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 14:29:00,365 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 14:29:00,371 [main] INFO OrangeHRM - Launching url
+2025-07-04 14:29:04,936 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 14:29:13,733 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 14:29:14,369 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 14:29:33,170 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 14:29:35,198 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 14:29:38,422 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
+2025-07-04 14:29:38,439 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 14:31:16,152 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 14:31:16,227 [main] INFO OrangeHRM - Launching url
+2025-07-04 14:31:20,516 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 14:31:21,703 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 14:31:26,470 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 14:31:26,519 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 14:31:27,618 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 14:31:28,180 [main] INFO OrangeHRM - ***** Listing down all the admins with their statuses *****
+2025-07-04 14:31:28,197 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 14:31:31,672 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 14:31:31,677 [main] INFO OrangeHRM - Launching url
+2025-07-04 14:31:35,029 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 14:31:36,197 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 14:31:37,738 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 14:31:38,380 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 14:31:40,535 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 14:31:41,085 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
+2025-07-04 14:31:41,092 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:05:33,038 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:05:33,116 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:05:37,814 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:05:47,064 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:05:47,630 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:05:56,434 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 17:06:04,574 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 17:06:14,093 [main] INFO OrangeHRM - ***** Listing down all the admins with their statuses *****
+2025-07-04 17:06:16,555 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:06:21,090 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:06:21,094 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:06:25,640 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:06:34,439 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:06:34,812 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:06:45,108 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 17:06:55,606 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 17:07:05,106 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
+2025-07-04 17:07:06,201 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:32:54,688 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:32:54,763 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:33:00,774 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:33:10,380 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:33:10,996 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:33:31,233 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 17:33:33,262 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 17:33:36,512 [main] INFO OrangeHRM - ***** Listing down all the admins with their statuses *****
+2025-07-04 17:33:37,038 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:33:41,443 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:33:41,447 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:33:46,200 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:33:55,707 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:33:56,145 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:34:14,999 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-04 17:34:17,943 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-04 17:34:22,648 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
+2025-07-04 17:34:23,143 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:35:50,988 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:35:51,060 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:35:56,654 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:36:05,665 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:36:06,195 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:36:26,767 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:36:29,593 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:36:33,007 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:36:38,801 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:36:42,370 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:36:42,563 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:36:49,671 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:36:52,064 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:36:57,119 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:36:57,843 [main] INFO OrangeHRM - ***** Verifying if the correct employee name appears in the search results *****
+2025-07-04 17:36:59,504 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:37:03,943 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:37:03,947 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:37:08,321 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:37:17,125 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:37:17,475 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:37:26,866 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:37:37,594 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:37:42,469 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:37:49,231 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:38:04,357 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:38:04,533 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:38:15,288 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:38:17,858 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:38:23,305 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:38:24,253 [main] INFO OrangeHRM - ***** Verifying if the emoployee name is fetched *****
+2025-07-04 17:38:25,780 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:38:30,452 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:38:30,457 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:38:35,102 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:38:43,689 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:38:44,072 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:39:04,916 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:39:07,829 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:39:10,360 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:39:17,415 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:39:20,247 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:39:20,583 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:39:28,204 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:39:30,431 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:39:35,162 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:39:35,622 [main] INFO OrangeHRM - ***** Verifying if the emoployee name is fetched *****
+2025-07-04 17:39:37,704 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:39:42,503 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:39:42,506 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:39:47,420 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:39:55,903 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:39:56,307 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:40:15,692 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:40:17,893 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:40:20,606 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:40:27,447 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:40:30,903 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:40:31,088 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:40:38,929 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:40:42,000 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:40:45,328 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:40:47,572 [main] INFO OrangeHRM - ***** Verifying if the emoployee name is fetched *****
+2025-07-04 17:40:48,525 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:44:08,663 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:44:08,736 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:44:14,430 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:44:23,899 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:44:24,298 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:44:42,810 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:44:44,681 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:47:08,863 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:47:08,942 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:47:14,155 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:47:23,145 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:47:23,667 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:47:41,682 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:47:43,790 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:49:03,616 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:49:03,709 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:49:08,813 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:49:17,740 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:49:18,057 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:49:36,406 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:49:38,169 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:49:42,162 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:49:42,987 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:49:45,549 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:49:45,818 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:49:52,961 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:49:55,262 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:49:58,447 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:49:59,357 [main] INFO OrangeHRM - ***** Verifying if the correct employee name appears in the search results *****
+2025-07-04 17:50:00,611 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:50:05,118 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:50:05,123 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:50:09,955 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:50:18,323 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:50:18,695 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:50:36,824 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:50:38,927 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:50:43,410 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:50:44,046 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:50:46,662 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:50:46,924 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:50:53,338 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:50:55,673 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:50:59,431 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:51:00,065 [main] INFO OrangeHRM - ***** Verifying if the emoployee name is fetched *****
+2025-07-04 17:51:01,181 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:51:05,571 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:51:05,575 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:51:10,733 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:51:19,914 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:51:20,313 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:51:36,939 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:51:39,585 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:51:44,876 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:51:45,967 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:51:51,277 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:51:51,566 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:51:59,159 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:52:02,267 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:52:06,149 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:52:07,389 [main] INFO OrangeHRM - ***** Verifying if the emoployee name is fetched *****
+2025-07-04 17:52:09,323 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:52:13,753 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:52:13,756 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:52:18,377 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:52:28,002 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:52:28,447 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:52:47,389 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:52:50,504 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 17:53:02,347 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-04 17:53:03,092 [main] INFO OrangeHRM - ***** Entering the first name, middle name and last name *****
+2025-07-04 17:53:06,746 [main] INFO OrangeHRM - ***** Saving the employee details *****
+2025-07-04 17:53:06,941 [main] INFO OrangeHRM - ***** Verifying the existance of employee name page header after adding the employee *****
+2025-07-04 17:53:13,793 [main] INFO OrangeHRM - ***** Clicking on PIM module again *****
+2025-07-04 17:53:16,377 [main] INFO OrangeHRM - ***** Entering full name in the Employee name field *****
+2025-07-04 17:53:20,153 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 17:53:20,643 [main] INFO OrangeHRM - ***** Verifying if the emoployee name is fetched *****
+2025-07-04 17:53:21,795 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 17:53:27,142 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 17:53:27,150 [main] INFO OrangeHRM - Launching url
+2025-07-04 17:53:31,501 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 17:53:41,086 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 17:53:41,806 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 17:53:59,471 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 17:54:01,327 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:17:51,179 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:17:51,244 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:17:56,431 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:18:06,033 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:18:06,477 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:18:23,946 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:18:25,657 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:20:27,882 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:20:27,941 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:20:33,674 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:20:42,521 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:20:42,983 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:21:02,365 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:21:04,127 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:23:18,540 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:23:18,605 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:23:24,195 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:23:33,662 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:23:34,113 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:23:52,821 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:23:54,608 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:28:35,961 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:28:36,017 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:28:41,701 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:28:49,531 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:28:49,864 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:29:09,435 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:29:11,557 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:36:15,666 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:36:15,731 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:36:21,490 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:36:30,068 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:36:30,482 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:36:48,479 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:36:50,384 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:37:01,356 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:37:01,821 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:37:36,978 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:37:37,041 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:37:42,145 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:37:51,636 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:37:51,975 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:38:09,327 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:38:11,039 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:40:13,986 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:40:14,048 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:40:18,983 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:40:27,547 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:40:27,985 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:40:45,696 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:40:47,570 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:40:58,304 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:40:58,932 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:41:36,977 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:41:37,041 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:41:41,756 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:41:50,576 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:41:50,885 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:42:09,429 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:42:11,216 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:42:22,294 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:42:22,860 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:43:40,695 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:43:40,753 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:43:46,536 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:43:55,677 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:43:56,078 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:44:14,170 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:44:15,868 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:44:36,366 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:44:37,371 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:46:00,951 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:46:01,009 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:46:06,898 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:46:15,937 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:46:16,383 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:46:34,371 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:46:36,221 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:46:57,035 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:46:57,850 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:48:34,455 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:48:34,516 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:48:40,266 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:48:48,829 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:48:49,240 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:49:08,070 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:49:10,052 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:49:12,667 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-04 18:49:20,054 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-04 18:49:30,707 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-04 18:49:30,980 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:49:31,912 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:50:57,593 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:50:57,654 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:51:03,201 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:51:11,876 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:51:12,273 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:51:31,588 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:51:33,485 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:51:36,282 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-04 18:51:43,092 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-04 18:51:53,582 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-04 18:51:53,848 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:51:54,698 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:53:17,904 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:53:17,964 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:53:23,667 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:53:32,689 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:53:33,089 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:53:51,940 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:53:54,002 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:53:56,786 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-04 18:54:03,588 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-04 18:54:14,299 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-04 18:54:15,084 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:54:16,064 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-04 18:54:38,106 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-04 18:54:38,163 [main] INFO OrangeHRM - Launching url
+2025-07-04 18:54:43,832 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-04 18:54:53,282 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-04 18:54:53,677 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-04 18:55:12,567 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-04 18:55:14,535 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-04 18:55:17,082 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-04 18:55:24,031 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-04 18:55:34,743 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-04 18:55:35,262 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-04 18:55:36,289 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-05 02:05:06,504 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-05 02:05:06,569 [main] INFO OrangeHRM - Launching url
+2025-07-05 02:05:14,228 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-05 02:05:24,488 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-05 02:05:24,940 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-05 02:05:41,327 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-05 02:05:43,273 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-05 02:05:52,375 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-05 02:05:53,028 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-05 02:06:03,704 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-05 02:06:04,248 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-05 02:06:05,372 [main] ERROR OrangeHRM - ***** Employee name not visible on page *****
+2025-07-05 02:06:05,373 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-05 02:07:32,263 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-05 02:07:32,323 [main] INFO OrangeHRM - Launching url
+2025-07-05 02:07:39,412 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-05 02:07:49,177 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-05 02:07:49,634 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-05 02:08:05,645 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-05 02:08:07,438 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-05 02:08:16,613 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-05 02:08:17,229 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-05 02:08:27,955 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-05 02:08:28,484 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-05 02:09:13,068 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-05 02:09:13,129 [main] INFO OrangeHRM - Launching url
+2025-07-05 02:09:23,886 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-05 02:09:35,641 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-05 02:09:36,171 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-05 02:09:53,223 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-05 02:09:55,018 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-05 02:10:04,119 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-05 02:10:04,816 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-05 02:10:15,347 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-05 02:10:15,858 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-05 02:12:58,040 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-05 02:12:58,102 [main] INFO OrangeHRM - Launching url
+2025-07-05 02:13:05,523 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-05 02:13:16,222 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-05 02:13:16,693 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-05 02:13:33,068 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-05 02:13:34,951 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-05 02:13:44,348 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-05 02:13:45,087 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-05 02:13:45,743 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-05 02:13:46,564 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-05 02:13:47,158 [main] ERROR OrangeHRM - ***** Employee name not visible on page *****
+2025-07-05 02:13:47,159 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-05 02:22:18,004 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-05 02:22:18,062 [main] INFO OrangeHRM - Launching url
+2025-07-05 02:22:25,949 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-05 02:22:37,188 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-05 02:22:37,532 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-05 02:22:54,330 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-05 02:22:56,255 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-05 02:23:06,127 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-05 02:23:06,751 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-05 02:23:07,287 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-05 02:23:08,095 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-05 02:23:08,560 [main] ERROR OrangeHRM - ***** Employee name not visible on page *****
+2025-07-05 02:23:08,562 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-05 02:24:10,285 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-05 02:24:10,347 [main] INFO OrangeHRM - Launching url
+2025-07-05 02:24:17,492 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-05 02:24:28,040 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-05 02:24:28,558 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-05 02:24:45,104 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-05 02:24:46,980 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-05 02:24:56,420 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-05 02:24:57,088 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-05 02:24:57,638 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-05 02:24:58,288 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-05 02:24:59,042 [main] ERROR OrangeHRM - ***** Employee name still visible on page *****
+2025-07-05 02:26:15,766 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-05 02:26:15,832 [main] INFO OrangeHRM - Launching url
+2025-07-05 02:26:23,500 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-05 02:26:34,242 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-05 02:26:34,708 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-05 02:26:51,710 [main] INFO OrangeHRM - ***** Clicking on the PIM module *****
+2025-07-05 02:26:53,714 [main] INFO OrangeHRM - ***** Verifying the existance of PIM page header after opening the PIM module *****
+2025-07-05 02:27:03,346 [main] INFO OrangeHRM - ***** Clicking on the delete button of the second employee *****
+2025-07-05 02:27:04,024 [main] INFO OrangeHRM - ***** Clicking on the modal delete option *****
+2025-07-05 02:27:04,507 [main] INFO OrangeHRM - ***** ENter deleted employee name *****
+2025-07-05 02:27:04,921 [main] INFO OrangeHRM - ***** Clicking on search button *****
+2025-07-05 02:27:05,648 [main] ERROR OrangeHRM - ***** Employee name not visible on page *****
+2025-07-05 02:27:05,650 [main] INFO OrangeHRM - ***** Closing the browser *****

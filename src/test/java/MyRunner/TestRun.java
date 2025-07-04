@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features= {"/Users/sourav.majhi/eclipse-workspace/OrangeHRM/Features/ListAllAdmins.feature"},
+@CucumberOptions(features= {"/Users/sourav.majhi/eclipse-workspace/OrangeHRM/Features/User.feature"},
 				 glue= "stepDefinitions",
 				 dryRun= false,
 				 monochrome= true,
