@@ -19,6 +19,16 @@ This project aims to:
 
 <img width="386" alt="Screenshot 2025-07-07 at 8 03 03 PM" src="https://github.com/user-attachments/assets/9dfba67c-2d66-4cb6-a834-9a87915b8a71" />
 
+- myRunner- contains test runner
+- pageObjects- contains page objects referring to different pages
+- stepDefinitions- contains baseclass inherited by the class for step definition
+- Features- contains different feature files
+- log- contains generated logs
+- test-report- contains generated report
+- config.properties- contains browser name and driver paths
+- log4j.properties- contains details related to root loggers, appender, log file location, layout and pattern
+- pom.xml- for dependency management 
+
 **Prerequisites**:
 - JDK 11 or later
 - Maven 3.6+
