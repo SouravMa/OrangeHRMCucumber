@@ -16,6 +16,7 @@ This project aims to:
 - Maven
 
 **Project Structure**:
+
 <img width="386" alt="Screenshot 2025-07-07 at 8 03 03 PM" src="https://github.com/user-attachments/assets/9dfba67c-2d66-4cb6-a834-9a87915b8a71" />
 
 **Prerequisites**:
