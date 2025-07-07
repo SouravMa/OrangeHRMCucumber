@@ -10,10 +10,12 @@ Feature: Check all admins
     When We click on Admin
     Then We should see the Admin header
 
+	
   Scenario: List all admins
     Then We should list down all the admins with their statuses
     And Close the browser
-    
+  
+  @Sanity  
   Scenario: Count the number of enabled and disabled admins
   	Then We count the number of enabled and disabled admins
   	And Close the browser

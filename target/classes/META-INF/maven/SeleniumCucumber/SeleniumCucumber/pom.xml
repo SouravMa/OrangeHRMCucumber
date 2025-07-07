@@ -3,7 +3,8 @@
   <groupId>SeleniumCucumber</groupId>
   <artifactId>SeleniumCucumber</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+ 
+ <!-- surefire and complier plugin to run as Maven test from pom.xml --> 
   <build>
   <pluginManagement>
   <plugins>
@@ -11,11 +12,11 @@
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.5.3</version>
-          <configuration>
+ <!--          <configuration>
 	          <suiteXmlFiles>
 	            <suiteXmlFile>testng.xml</suiteXmlFile>
 	          </suiteXmlFiles>   
-          </configuration>
+          </configuration> -->
         </plugin>
         
         <plugin>

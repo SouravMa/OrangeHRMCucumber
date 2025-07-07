@@ -37,8 +37,8 @@ public class AdminPage extends BasePage{
 	public void listAllAdmins() {
 		System.out.println("The usernames are: ");
 		for(int i=2; i<=getTotalRows(); i++) {
-			String userName= driver.findElement(By.xpath("(//div[@role= 'row'])["+i+"]//div[2]")).getText();
-			String status= driver.findElement(By.xpath("(//div[@role= 'row'])["+i+"]//div[5]")).getText();
+			String userName= driver.findElement(By.xpath("(//div[@role= 'row'])["+i+"]//div[2]//div")).getText();
+			String status= driver.findElement(By.xpath("(//div[@role= 'row'])["+i+"]//div[5]//div")).getText();
 			System.out.println(". "+userName+"->"+status);
 		}
 	}
@@ -48,7 +48,7 @@ public class AdminPage extends BasePage{
 		int disabledCount=0;
 		
 		for(int i=2; i<=getTotalRows(); i++) {
-			if(driver.findElement(By.xpath("(//div[@role= 'row'])["+i+"]//div[5]")).getText().equals("Enabled")) {
+			if(driver.findElement(By.xpath("(//div[@role= 'row'])["+i+"]//div[5]//div")).getText().equals("Enabled")) {
 				enabledCount++;
 			}
 			else {

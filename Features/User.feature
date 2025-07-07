@@ -9,7 +9,8 @@ Feature: Create and search user
     Then We should see user dropdown
     When We click on PIM
     Then We should see the PIM header
-
+	
+	@UserTag1
   Scenario: Create and Search User
     When we click on Add button
     And Enter the required details 
@@ -21,7 +22,7 @@ Feature: Create and search user
     Then Employee name is fetched and should be equal to the searched employee name
     And Close the browser
 
-    
+  @UserTag1S  
   Scenario Outline: Create and Search User
     When we click on Add button
     And Enter the "<firstName>", "<middleName>" and "<lastName>" 
@@ -39,6 +40,7 @@ Feature: Create and search user
   |Ibu|Khiska|Hatela|
   |Bulla|Bhaukaal|Bhai|
   
+  @UserTag2
   Scenario: Delete User
     When We click on the delete button of the second employee
     And Click on the Delete button of the pop-up
