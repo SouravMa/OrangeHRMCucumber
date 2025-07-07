@@ -559,3 +559,30 @@ Launching url
 ***** Verifying the existance of Admin page header after opening the Admin module *****
 ***** Counting the number of enabled and disabled admins *****
 ***** Closing the browser *****
+***** Launching browser *****
+Launching url
+***** Entering email and password *****
+***** Click on LOG IN *****
+***** Verifying if the user dropdown exists after logging in *****
+***** Clicking on Admin module *****
+***** Verifying the existance of Admin page header after opening the Admin module *****
+***** Counting the number of enabled and disabled admins *****
+***** Closing the browser *****
+***** Launching browser *****
+Launching url
+***** Entering email and password *****
+***** Click on LOG IN *****
+***** Verifying if the user dropdown exists after logging in *****
+***** Clicking on Admin module *****
+***** Verifying the existance of Admin page header after opening the Admin module *****
+***** Listing down all the admins with their statuses *****
+***** Closing the browser *****
+***** Launching browser *****
+Launching url
+***** Entering email and password *****
+***** Click on LOG IN *****
+***** Verifying if the user dropdown exists after logging in *****
+***** Clicking on Admin module *****
+***** Verifying the existance of Admin page header after opening the Admin module *****
+***** Counting the number of enabled and disabled admins *****
+***** Closing the browser *****

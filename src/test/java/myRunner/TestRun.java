@@ -1,4 +1,4 @@
-package MyRunner;
+package myRunner;
 
 import org.junit.runner.RunWith;
 

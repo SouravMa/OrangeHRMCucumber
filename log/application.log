@@ -559,3 +559,30 @@
 2025-07-07 15:20:53,817 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
 2025-07-07 15:21:01,439 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
 2025-07-07 15:21:02,737 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-07 16:08:30,926 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-07 16:08:31,012 [main] INFO OrangeHRM - Launching url
+2025-07-07 16:08:39,619 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-07 16:08:49,704 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-07 16:08:50,111 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-07 16:09:02,473 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-07 16:09:04,368 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-07 16:09:08,975 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
+2025-07-07 16:09:09,443 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-07 16:10:58,973 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-07 16:10:59,052 [main] INFO OrangeHRM - Launching url
+2025-07-07 16:11:11,000 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-07 16:11:23,898 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-07 16:11:24,383 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-07 16:11:43,700 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-07 16:11:45,698 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-07 16:11:50,354 [main] INFO OrangeHRM - ***** Listing down all the admins with their statuses *****
+2025-07-07 16:11:51,201 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-07 16:11:56,382 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-07 16:11:56,388 [main] INFO OrangeHRM - Launching url
+2025-07-07 16:12:02,716 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-07 16:12:12,576 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-07 16:12:12,964 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-07 16:12:31,992 [main] INFO OrangeHRM - ***** Clicking on Admin module *****
+2025-07-07 16:12:33,981 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
+2025-07-07 16:12:38,162 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
+2025-07-07 16:12:38,721 [main] INFO OrangeHRM - ***** Closing the browser *****

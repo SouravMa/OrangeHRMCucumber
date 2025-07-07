@@ -10,7 +10,7 @@ Feature: Check all admins
     When We click on Admin
     Then We should see the Admin header
 
-	
+	@Sanity
   Scenario: List all admins
     Then We should list down all the admins with their statuses
     And Close the browser
