@@ -16,18 +16,7 @@ This project aims to:
 - Maven
 
 **Project Structure**:
-├── src/
-│ └── test/java/
-  | └── pageObjects/ 		# Page classes
-│ | └── stepDefinitions/ 	# Cucumber steps
-│ | └── myRunner/ 			# Test runners 
-├── Features/ 				# .feature files
-├── log/ 					# Generating logs
-├── test-report 			# Generated reports
-├── config.properties		# Configuration details like browser name, webdriver paths
-├── log4j.properties 		# root loggers, appender, log file location, layout and pattern related info
-├── pom.xml 				# Maven build file
-└── README.md
+<img width="386" alt="Screenshot 2025-07-07 at 8 03 03 PM" src="https://github.com/user-attachments/assets/9dfba67c-2d66-4cb6-a834-9a87915b8a71" />
 
 **Prerequisites**:
 - JDK 11 or later
