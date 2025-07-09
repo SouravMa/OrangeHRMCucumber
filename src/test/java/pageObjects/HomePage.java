@@ -35,6 +35,10 @@ public class HomePage extends BasePage{
 	@CacheLookup
 	public WebElement adminModule;
 	
+	@FindBy(xpath= "//a[contains(@href, 'Leave')]")
+	@CacheLookup
+	public WebElement leaveModule;
+	
 	public void clickOnSearch() {
 		searchInput.click();
 	}
@@ -59,4 +63,13 @@ public class HomePage extends BasePage{
 	public void openPIMModule() {
 		pimModule.click();
 	}
+	
+	public void openAdminModule() {
+		adminModule.click();
+	}
+	
+	public void openLeaveModule() {
+		leaveModule.click();
+	}
+	
 }

@@ -2,6 +2,8 @@ package pageObjects;
 
 import java.time.Duration;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
@@ -12,10 +14,14 @@ public class BasePage {
 
 	public static WebDriver driver;
 	public WebDriverWait wait;
-	
+	public static Logger logger;
+		
 	public BasePage(WebDriver driver) {
 		this.driver= driver;
 		PageFactory.initElements(driver, this);
+		//added logger:
+		logger= Logger.getLogger("OrangeHRM");
+		PropertyConfigurator.configure("/Users/sourav.majhi/eclipse-workspace/OrangeHRM/log4j.properties");
 	}
 	
 	public String getPageTitle() {

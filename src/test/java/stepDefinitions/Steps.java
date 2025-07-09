@@ -10,6 +10,7 @@ import io.cucumber.java.Before;
 import io.cucumber.java.en.*;
 import pageObjects.AdminPage;
 import pageObjects.HomePage;
+import pageObjects.LeavePage;
 import pageObjects.LoginPage;
 import pageObjects.PIMPage;
 import pageObjects.RecruitmentPage;
@@ -20,7 +21,6 @@ import java.util.Properties;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.apache.logging.log4j.LogManager;
 import org.junit.Assert;
 
 
@@ -33,7 +33,7 @@ public class Steps extends BaseClass{
 	
 	String nameUsedForDeleteScenario= "";
 	
-	@Before									// runs before the other methods of steps class and since this is a cucumber annotation, we cannot define
+	@Before()									// runs before the other methods of steps class and since this is a cucumber annotation, we cannot define
 											// it in the baseclass thinking that steps class is anyway extending baseclass so it will be used here
 											// automatically
 	public void setup() throws IOException {
@@ -64,6 +64,7 @@ public class Steps extends BaseClass{
 	public void user_launches_chrome_browser() {
 	
 		logger.info("***** Launching browser *****");
+		lep= new LeavePage(driver);
 		lp= new LoginPage(driver);
 		hp= new HomePage(driver);	
 		rp= new RecruitmentPage(driver);
@@ -253,7 +254,7 @@ public class Steps extends BaseClass{
 	@When("We click on Admin")
 	public void we_click_on_admin() {
 		logger.info("***** Clicking on Admin module *****");
-		hp.adminModule.click();
+		hp.openAdminModule();
 	}
 
 	@Then("We should see the Admin header")
@@ -308,6 +309,58 @@ public class Steps extends BaseClass{
 		catch(Exception e) {
 			logger.error("***** Employee name not visible on page *****");
 		}
+	}
+	
+	//apply for leave:
+	@When("User clicks on Apply section")
+	public void user_clicks_on_apply_section() {
+		logger.info("***** Clicking on Apply section *****");
+		lep.waitForElement(lep.applySection, 30);
+		lep.openApplySection();
+	}
+	
+	@When("We click on Leave")
+	public void we_click_on_leave() {
+		logger.info("***** Clicking on Leave module *****");
+		hp.openLeaveModule();
+	}
+
+	@Then("We should see the Leave header")
+	public void we_should_see_the_leave_header() {
+		logger.info("***** Verifying the existance of Leave page header after opening the Leave module *****");
+		lep.waitForElement(lep.leavePageHeader, 30);
+		lep.leavePageHeader.isDisplayed();
+	}
+
+	@And("User selects leave type")
+	public void user_selects_leave_type() {
+		logger.info("***** Selecting Leave Type *****");
+		lep.selectLeaveType();
+	}
+
+	@And("Selects from date")
+	public void selects_from_date() {
+		logger.info("***** Selecting From Date *****");
+		lep.selectFromDate();
+	}
+
+	@And("Selects to date")
+	public void selects_to_date() {
+		logger.info("***** Selecting To Date *****");
+		lep.selectToDate();
+	}
+
+	@And("Click on Apply")
+	public void click_on_apply() {
+		logger.info("***** Clicking on Apply *****");
+		lep.clickOnApply();
+	}
+
+	@Then("User should see the success message")
+	public void user_should_see_the_success_message() {
+		logger.info("***** Verifying if success message is visible after applying for leave *****");
+		lep.waitForElement(lep.successMessage, 30);
+		lep.successMessage.isDisplayed();
 	}
 }
 	

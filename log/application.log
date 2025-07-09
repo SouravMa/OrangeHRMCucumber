@@ -586,3 +586,146 @@
 2025-07-07 16:12:33,981 [main] INFO OrangeHRM - ***** Verifying the existance of Admin page header after opening the Admin module *****
 2025-07-07 16:12:38,162 [main] INFO OrangeHRM - ***** Counting the number of enabled and disabled admins *****
 2025-07-07 16:12:38,721 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-09 16:46:09,179 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 16:46:09,267 [main] INFO OrangeHRM - Launching url
+2025-07-09 16:46:15,161 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 16:46:23,132 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 16:46:23,597 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:09:48,737 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:09:48,823 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:09:54,219 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:10:02,488 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:10:02,819 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:10:21,214 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:10:22,921 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:13:28,060 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:13:28,195 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:13:33,558 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:13:42,572 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:13:42,992 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:14:02,287 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:14:03,994 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:19:42,961 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:19:43,044 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:19:48,629 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:19:56,458 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:19:56,815 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:20:15,570 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:20:17,521 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:20:21,666 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:23:14,024 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:23:14,117 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:23:19,824 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:23:28,231 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:23:28,647 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:23:47,003 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:23:48,942 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:23:52,827 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:23:53,601 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:26:27,242 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:26:27,333 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:26:33,001 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:26:41,705 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:26:42,118 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:27:01,015 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:27:02,855 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:27:06,650 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:27:07,495 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:27:11,007 [main] INFO OrangeHRM - ***** Selecting From Date *****
+2025-07-09 17:29:02,022 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:29:02,113 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:29:07,655 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:29:16,987 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:29:17,477 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:29:35,526 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:29:37,195 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:29:40,980 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:29:41,710 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:29:44,489 [main] INFO OrangeHRM - ***** Selecting From Date *****
+2025-07-09 17:29:46,023 [main] INFO OrangeHRM - ***** Selecting To Date *****
+2025-07-09 17:29:47,850 [main] INFO OrangeHRM - ***** Clicking on Apply *****
+2025-07-09 17:29:48,179 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-09 17:32:15,457 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:32:15,541 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:32:20,915 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:32:30,279 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:32:30,724 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:32:48,727 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:32:50,466 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:32:54,715 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:32:55,421 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:36:29,723 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:36:29,808 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:36:35,340 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:36:43,953 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:36:44,421 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:37:03,486 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:37:05,406 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:37:09,489 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:37:10,255 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:38:13,722 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:38:13,807 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:38:19,637 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:38:28,303 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:38:28,693 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:38:46,827 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:38:48,924 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:38:52,792 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:38:53,560 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:40:40,524 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:40:40,621 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:40:46,037 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:40:54,524 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:40:54,970 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:41:14,070 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:41:15,949 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:41:20,160 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:41:20,972 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:42:38,140 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:42:38,237 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:42:43,666 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:42:52,369 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:42:52,748 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:43:10,630 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:43:12,327 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:43:16,627 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:43:17,380 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:45:23,963 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:45:24,049 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:45:29,789 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:45:38,447 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:45:38,838 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:45:57,867 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:45:59,567 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:46:03,560 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:46:04,310 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:48:05,229 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:48:05,317 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:48:10,628 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:48:18,901 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:48:19,309 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:48:38,209 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:48:40,805 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:48:45,057 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:48:45,948 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:48:48,457 [main] INFO OrangeHRM - ***** No Leave Types with Leave Balance *****
+2025-07-09 17:49:40,497 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 17:49:40,594 [main] INFO OrangeHRM - Launching url
+2025-07-09 17:49:44,984 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 17:49:53,154 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 17:49:53,455 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 17:50:12,625 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 17:50:14,384 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 17:50:18,527 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 17:50:19,227 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 17:50:21,884 [main] ERROR OrangeHRM - ***** No Leave Types with Leave Balance *****
+2025-07-09 18:19:59,163 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-09 18:19:59,250 [main] INFO OrangeHRM - Launching url
+2025-07-09 18:20:04,404 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-09 18:20:13,060 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-09 18:20:13,515 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-09 18:20:32,137 [main] INFO OrangeHRM - ***** Clicking on Leave module *****
+2025-07-09 18:20:33,792 [main] INFO OrangeHRM - ***** Verifying the existance of Leave page header after opening the Leave module *****
+2025-07-09 18:20:37,730 [main] INFO OrangeHRM - ***** Clicking on Apply section *****
+2025-07-09 18:20:38,523 [main] INFO OrangeHRM - ***** Selecting Leave Type *****
+2025-07-09 18:20:40,956 [main] ERROR OrangeHRM - ***** No Leave Types with Leave Balance *****
