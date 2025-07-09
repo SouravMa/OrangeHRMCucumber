@@ -75,7 +75,7 @@ public class LeavePage extends BasePage{
 		}
 		catch(Exception e) {
 			waitForElement(noLeaveTypeMessage, 30);
-			logger.error("***** "+noLeaveTypeMessage.getText()+" *****");
+			logger.error("***** "+noLeaveTypeMessage.getText()+"exists *****");
 			Assert.fail();
 		}
 	}
