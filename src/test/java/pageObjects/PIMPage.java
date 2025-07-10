@@ -18,10 +18,6 @@ public class PIMPage extends BasePage{
 	@CacheLookup
 	public WebElement pimPageHeader;
 	
-	@FindBy(xpath= "//button[normalize-space()='Add']")
-	@CacheLookup
-	public WebElement addEmployeeButton;
-	
 	@FindBy(xpath= "//input[@name= 'firstName']")
 	@CacheLookup
 	public WebElement firstNameInput;
@@ -67,7 +63,7 @@ public class PIMPage extends BasePage{
 	public WebElement modalDeleteOption;
 	
 	public void clickOnAddButton() {
-		addEmployeeButton.click();
+		addButton.click();
 	}
 	
 	public void enterFirstName(String fName) {

@@ -31,7 +31,7 @@ public class LeavePage extends BasePage{
 	@CacheLookup
 	public WebElement leaveTypeDropdown;
 	
-	@FindBy(xpath= "(//div[@class= 'oxd-select-option'])[2]")
+	@FindBy(xpath= "//div[@class= 'oxd-select-option']//span")
 	@CacheLookup
 	public WebElement secondLeaveTypeOption;
 	
@@ -55,30 +55,15 @@ public class LeavePage extends BasePage{
 	@CacheLookup
 	public WebElement applyButton;
 	
-	@FindBy(xpath= "//p[text()= 'Success']")
-	@CacheLookup
-	public WebElement successMessage;
-	
 	public void openApplySection() {
-		
 		applySection.click();
 	}
 	
 	public void selectLeaveType() {
-		try {
-			
-			// because it was giving stale element error
-			WebElement leaveTypeDropdown1= driver.findElement(By.xpath("//div//div[text()= '-- Select --']"));
-			waitForElement(leaveTypeDropdown1, 30);
-			leaveTypeDropdown1.click();
-			secondLeaveTypeOption.click();
+		waitForElement(leaveTypeDropdown, 30);
+		leaveTypeDropdown.click();
+		secondLeaveTypeOption.click();
 		}
-		catch(Exception e) {
-			waitForElement(noLeaveTypeMessage, 30);
-			logger.error("***** "+noLeaveTypeMessage.getText()+"exists *****");
-			Assert.fail();
-		}
-	}
 	
 	public void selectFromDate() {
 		fromDateField.click();

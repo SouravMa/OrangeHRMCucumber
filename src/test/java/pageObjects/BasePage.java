@@ -6,6 +6,8 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -23,6 +25,14 @@ public class BasePage {
 		logger= Logger.getLogger("OrangeHRM");
 		PropertyConfigurator.configure("/Users/sourav.majhi/eclipse-workspace/OrangeHRM/log4j.properties");
 	}
+	
+	@FindBy(xpath= "//p[text()= 'Success']")
+	@CacheLookup
+	public WebElement successMessage;
+	
+	@FindBy(xpath= "//button[normalize-space()='Add']")
+	@CacheLookup
+	public WebElement addButton;
 	
 	public String getPageTitle() {
 		return driver.getTitle();

@@ -24,6 +24,7 @@ public class BaseClass {
 	public PIMPage pp;
 	public AdminPage ap;
 	public LeavePage lep;
+	
 	public static Logger logger;
 	public Properties prop;
 	
@@ -32,5 +33,10 @@ public class BaseClass {
 		String randomString= RandomStringUtils.randomAlphabetic(num);
 		return randomString;
 	}
+	
+	public static String generateRandomNumber(int num) {
+		String randomNumber= RandomStringUtils.randomNumeric(num);
+		return randomNumber;
+	} 
 
 } 

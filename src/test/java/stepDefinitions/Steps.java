@@ -30,6 +30,7 @@ public class Steps extends BaseClass{
 	String firstName= generateRandomString(5);
 	String middleName= generateRandomString(5);
 	String lastName= generateRandomString(5);
+	String email= generateRandomString(5)+generateRandomNumber(2)+"@gmail.com";
 	
 	String nameUsedForDeleteScenario= "";
 	
@@ -169,7 +170,7 @@ public class Steps extends BaseClass{
 		pp.pimPageHeader.isDisplayed();
 	}
 
-	@When("we click on Add button")
+	@When("We click on Add button")
 	public void we_click_on_add_button() {
 		logger.info("***** Clicking on Add button *****");
 		pp.clickOnAddButton();
@@ -361,6 +362,39 @@ public class Steps extends BaseClass{
 		logger.info("***** Verifying if success message is visible after applying for leave *****");
 		lep.waitForElement(lep.successMessage, 30);
 		lep.successMessage.isDisplayed();
+	}
+	
+	// candidate application:
+	
+	@And("We click on Recruitment")
+	public void we_click_on_recruitment() {
+		logger.info("***** Clicking on Recruitment module *****");
+		hp.openRecruitmentModule();
+	}
+
+	@Then("We should see the Recruitment header")
+	public void we_should_see_the_recruitment_header() {
+		logger.info("***** Verifying the existance of Recruitment page header after opening the Recruitment module *****");
+		ap.waitForElement(rp.recuitmentPageHeader, 30);
+		rp.recuitmentPageHeader.isDisplayed();
+	}
+
+	@When("User enters full name")
+	public void user_enters_full_name() {
+		logger.info("***** Entering full name *****");
+		rp.enterFullName(firstName, middleName, lastName);
+	}
+
+	@And("User enters email")
+	public void user_enters_email() {
+		logger.info("***** Entering email *****");
+		rp.enterEmail(email);
+	}
+
+	@And("User clicks on Save")
+	public void user_clicks_on_save() {
+		logger.info("***** Clicking on Save *****");
+		rp.clickOnSave();
 	}
 }
 	

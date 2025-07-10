@@ -12,7 +12,7 @@ Feature: Create and search user
 	
 	@UserTag1
   Scenario: Create and Search User
-    When we click on Add button
+    When We click on Add button
     And Enter the required details 
     And Save it
     Then Employee gets added and we should see the employee header name
@@ -24,7 +24,7 @@ Feature: Create and search user
 
   @UserTag1S  
   Scenario Outline: Create and Search User
-    When we click on Add button
+    When We click on Add button
     And Enter the "<firstName>", "<middleName>" and "<lastName>" 
     And Save it
     Then Employee gets added and we should see the employee header name

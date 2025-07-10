@@ -72,4 +72,8 @@ public class HomePage extends BasePage{
 		leaveModule.click();
 	}
 	
+	public void openRecruitmentModule() {
+		recruitmentModule.click();
+	}
+	
 }
