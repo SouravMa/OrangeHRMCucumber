@@ -396,6 +396,39 @@ public class Steps extends BaseClass{
 		logger.info("***** Clicking on Save *****");
 		rp.clickOnSave();
 	}
+	
+	// data driven candidate application:
+	
+	@And("User enters {string}, {string} and {string}")
+	public void user_enters_and(String firstName, String middleName, String lastName) {
+		rp.enterFullName(firstName, middleName, lastName);
+	}
+
+	@And("User enters {string}")
+	public void user_enters(String email) {
+		logger.info("***** Entering email *****");
+		rp.enterEmail(email);
+	}
+	
+	// listing down all the vacancies:
+	@When("User clicks on Vacancies section")
+	public void user_clicks_on_vacancies_section() {
+		rp.clickOnVacancies();
+	}
+
+	@Then("User should see the Vacancies header")
+	public void user_should_see_the_vacancies_header() {
+		logger.info("***** Verifying if Vacancies header is visible after clicking on Vacancies section *****");
+		rp.waitForElement(rp.vacanciesHeader, 30);
+		rp.vacanciesHeader.isDisplayed();
+		
+		rp.waitForElement(rp.vacanciesTableColumnHeaderRow, 30);
+	}
+	
+	@Then("All the vacancies get listed down")
+	public void all_the_vacancies_get_listed_down() {
+		rp.listAllVacancies();
+	}
 }
 	
 

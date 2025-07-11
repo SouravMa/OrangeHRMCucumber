@@ -881,3 +881,568 @@
 2025-07-10 15:42:09,730 [main] INFO OrangeHRM - ***** Clicking on Save *****
 2025-07-10 15:42:10,365 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
 2025-07-10 15:42:11,038 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 15:55:15,309 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 15:55:15,407 [main] INFO OrangeHRM - Launching url
+2025-07-10 15:55:25,122 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 15:55:38,213 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 15:55:38,610 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 15:56:03,859 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 15:56:14,476 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 15:56:19,339 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 15:56:29,522 [main] INFO OrangeHRM - ***** Entering full name *****
+2025-07-10 15:56:33,667 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 15:56:34,448 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 15:56:34,991 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 15:56:35,726 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 15:56:40,395 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 15:56:40,418 [main] INFO OrangeHRM - Launching url
+2025-07-10 15:56:45,451 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 15:56:53,770 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 15:56:54,094 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 15:57:13,199 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 15:57:15,255 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 15:57:18,040 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 15:57:30,241 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 15:57:30,266 [main] INFO OrangeHRM - Launching url
+2025-07-10 15:57:34,885 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 15:57:44,617 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 15:57:44,929 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 15:58:01,605 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 15:58:03,575 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 15:58:06,356 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 16:41:31,535 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:41:31,636 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:41:37,369 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:41:45,481 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:41:45,897 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:42:03,253 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:42:05,186 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:42:07,928 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 16:42:08,550 [main] INFO OrangeHRM - ***** Entering full name *****
+2025-07-10 16:42:12,183 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 16:42:13,112 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 16:42:14,441 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 16:42:15,108 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 16:42:19,640 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:42:19,657 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:42:25,372 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:42:35,266 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:42:35,734 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:42:52,573 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:42:54,251 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:42:56,856 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 16:43:08,096 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 16:43:08,716 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 16:43:09,202 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 16:43:09,963 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 16:43:14,845 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:43:14,867 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:43:19,766 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:43:28,877 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:43:29,279 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:43:47,508 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:43:49,214 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:43:51,935 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 16:44:02,439 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 16:44:03,021 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 16:44:03,442 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 16:44:04,066 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 16:44:08,628 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:44:08,653 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:44:13,677 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:44:23,211 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:44:23,630 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:44:41,717 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:44:43,567 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:51:15,670 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:51:15,758 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:51:21,602 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:51:29,477 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:51:29,790 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:51:47,526 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:51:49,230 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:51:59,228 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 16:55:57,064 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:55:57,173 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:56:02,997 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:56:12,312 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:56:12,770 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:56:30,205 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:56:32,265 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:56:35,103 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 16:56:41,945 [main] INFO OrangeHRM - ***** Entering full name *****
+2025-07-10 16:56:45,594 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 16:56:46,082 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 16:56:46,774 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 16:56:47,507 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 16:56:52,104 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:56:52,121 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:56:57,906 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:57:07,148 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:57:07,543 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:57:25,005 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:57:26,802 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:57:29,588 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 16:57:39,920 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 16:57:40,689 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 16:57:41,295 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 16:57:41,988 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 16:57:46,553 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:57:46,576 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:57:51,487 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:58:00,088 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:58:00,478 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:58:18,374 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:58:21,029 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 16:58:24,544 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 16:58:34,893 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 16:58:35,430 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 16:58:35,876 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 16:58:36,610 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 16:58:41,392 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 16:58:41,416 [main] INFO OrangeHRM - Launching url
+2025-07-10 16:58:47,314 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 16:58:56,400 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 16:58:56,789 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 16:59:13,977 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 16:59:16,005 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:00:55,684 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:00:55,785 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:01:01,478 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:01:10,250 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:01:10,570 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:01:28,037 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:01:29,872 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:04:19,348 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:04:19,437 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:04:25,305 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:04:34,205 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:04:34,675 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:04:52,012 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:04:53,891 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:05:03,525 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:05:05,082 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:05:38,314 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:05:38,401 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:05:44,038 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:05:52,473 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:05:52,803 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:06:12,141 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:06:14,091 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:06:24,235 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:06:25,922 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:07:22,867 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:07:22,951 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:07:29,132 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:07:37,375 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:07:37,809 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:07:57,190 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:07:59,197 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:08:08,401 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:08:10,327 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:09:18,254 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:09:18,342 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:09:24,126 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:09:33,280 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:09:33,653 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:09:51,980 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:09:53,693 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:10:04,382 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:10:06,283 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:11:22,859 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:11:22,947 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:11:28,957 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:11:38,572 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:11:38,909 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:11:57,183 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:11:58,728 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:12:09,558 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:12:13,743 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:13:09,404 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:13:09,490 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:13:15,404 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:13:23,920 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:13:24,284 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:13:42,379 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:13:43,973 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:13:53,999 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:13:57,915 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:23:44,825 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:23:44,921 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:23:51,028 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:24:01,044 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:24:01,407 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:24:21,785 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:24:23,741 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:24:26,813 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 17:24:37,531 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 17:24:38,162 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 17:24:38,720 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 17:24:39,352 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:24:44,873 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:24:44,897 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:24:49,633 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:24:58,696 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:24:59,070 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:25:18,448 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:25:20,585 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:25:23,723 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-10 17:25:33,562 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-10 17:25:34,126 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-10 17:25:34,464 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-10 17:25:35,078 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:25:39,666 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:25:39,688 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:25:44,031 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:25:52,918 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:25:53,374 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:26:11,841 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:26:13,780 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:26:23,792 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:26:25,790 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:27:15,551 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:27:15,642 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:27:21,374 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:27:30,245 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:27:30,645 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:27:48,228 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:27:49,933 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:27:59,086 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:28:01,018 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:33:48,066 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:33:48,151 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:33:54,021 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:34:02,654 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:34:02,990 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:34:21,783 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:34:23,765 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:34:33,570 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:34:35,258 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:35:50,823 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:35:50,907 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:35:56,703 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:36:05,845 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:36:06,143 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:36:25,043 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:36:26,824 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:36:36,427 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:36:38,295 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:37:01,684 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:37:01,777 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:37:07,177 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:37:15,781 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:37:16,210 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:37:36,307 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:37:38,428 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:37:48,752 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:37:51,484 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:41:49,714 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:41:49,804 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:41:55,570 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:42:03,623 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:42:04,062 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:42:22,802 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:42:24,906 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:42:34,957 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:42:37,385 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:43:20,670 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:43:20,761 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:43:27,342 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:43:36,275 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:43:36,810 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:43:56,233 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:43:58,618 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:44:08,796 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:44:10,629 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 17:46:10,263 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:51:36,570 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 17:51:36,676 [main] INFO OrangeHRM - Launching url
+2025-07-10 17:51:42,342 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 17:51:50,392 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 17:51:50,849 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 17:52:09,821 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 17:52:11,734 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 17:52:21,325 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 17:52:23,160 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:03:46,023 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:03:46,118 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:03:52,854 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:04:02,460 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:04:02,927 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:04:22,875 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:04:24,978 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:04:35,213 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:04:36,863 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:08:54,438 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:08:54,530 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:09:01,425 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:09:10,206 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:09:10,610 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:09:28,569 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:09:30,345 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:09:41,196 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:09:42,910 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:12:40,031 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:12:40,118 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:12:46,909 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:12:55,721 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:12:56,049 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:13:15,078 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:13:17,177 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:13:27,485 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:13:29,572 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:20:49,548 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:20:49,636 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:20:56,361 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:21:05,000 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:21:05,386 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:21:23,555 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:21:25,421 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:21:35,076 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:21:36,951 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:23:18,686 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:23:18,774 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:23:24,953 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:23:34,280 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:23:34,726 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:23:52,727 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:23:54,638 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:24:05,301 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:24:07,083 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:26:45,042 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:26:45,132 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:26:51,502 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:27:00,738 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:27:01,187 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:27:19,362 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:27:21,367 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:27:31,451 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:27:33,128 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:28:31,453 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:28:31,538 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:28:38,350 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:28:47,592 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:28:47,987 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:29:06,049 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:29:08,002 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:29:17,895 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:29:19,803 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 18:31:11,761 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 18:31:11,852 [main] INFO OrangeHRM - Launching url
+2025-07-10 18:31:17,979 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 18:31:26,583 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 18:31:26,915 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 18:31:44,986 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 18:31:47,038 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 18:31:57,620 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 18:31:59,249 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 23:08:09,342 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:08:09,438 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:08:14,351 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:08:21,997 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:08:22,512 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:08:39,764 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:08:41,610 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:08:51,276 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:08:53,097 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 23:10:09,435 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:10:09,524 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:10:14,644 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:10:23,175 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:10:23,619 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:10:40,594 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:10:42,146 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:10:52,427 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:10:56,295 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 23:11:17,426 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:11:17,511 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:11:21,497 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:11:28,995 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:11:29,454 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:11:47,887 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:11:49,778 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:12:00,530 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:14:01,895 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:14:01,991 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:14:06,041 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:14:14,921 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:14:15,634 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:14:33,105 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:14:34,704 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:14:45,480 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:14:49,187 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 23:16:34,649 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:16:34,772 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:16:38,650 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:16:47,337 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:16:47,679 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:17:04,808 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:17:06,386 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:17:16,671 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:18:53,529 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:18:53,620 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:19:03,483 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:19:06,037 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:19:06,535 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:19:23,566 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:19:25,220 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:19:35,735 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:20:20,515 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:20:20,618 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:20:27,283 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:20:36,229 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:20:36,659 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:20:53,815 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:20:55,386 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:21:05,865 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:21:09,631 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 23:22:55,732 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:22:55,824 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:23:05,526 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:23:08,239 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:23:08,629 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:23:26,279 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:23:28,072 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:23:37,724 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:26:13,166 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:26:13,253 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:26:17,295 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:26:25,334 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:26:25,724 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:26:42,546 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:26:44,195 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:26:54,207 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:26:58,034 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-10 23:31:03,933 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-10 23:31:04,017 [main] INFO OrangeHRM - Launching url
+2025-07-10 23:31:07,934 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-10 23:31:16,591 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-10 23:31:16,944 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-10 23:31:35,753 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-10 23:31:37,356 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-10 23:31:47,009 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-10 23:31:50,895 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 00:47:37,445 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 00:47:37,538 [main] INFO OrangeHRM - Launching url
+2025-07-11 00:47:45,673 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 00:47:55,054 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 00:47:55,472 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 00:48:10,622 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 00:48:12,034 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 00:48:23,221 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-11 00:48:27,063 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 04:00:58,068 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 04:00:58,161 [main] INFO OrangeHRM - Launching url
+2025-07-11 04:01:04,413 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 04:01:13,122 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 04:01:13,556 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 04:01:32,665 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 04:01:34,717 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 04:01:44,791 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-11 04:01:48,581 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 12:24:23,349 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 12:24:23,434 [main] INFO OrangeHRM - Launching url
+2025-07-11 12:24:29,932 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 12:24:39,331 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 12:24:40,091 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 12:24:59,364 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 12:25:01,193 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 12:25:11,335 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-11 12:25:15,454 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 12:25:38,279 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 12:25:38,366 [main] INFO OrangeHRM - Launching url
+2025-07-11 12:25:43,548 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 12:25:53,083 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 12:25:53,783 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 12:26:12,441 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 12:26:14,483 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 12:26:24,315 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-11 12:26:27,996 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 12:34:52,553 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 12:34:52,637 [main] INFO OrangeHRM - Launching url
+2025-07-11 12:35:01,030 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 12:35:12,112 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 12:35:12,902 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 12:35:29,605 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 12:35:31,437 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 12:35:42,513 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-11 12:35:46,226 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 12:36:22,002 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 12:36:22,092 [main] INFO OrangeHRM - Launching url
+2025-07-11 12:36:28,846 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 12:36:38,894 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 12:36:39,690 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 12:36:58,284 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 12:37:00,155 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 12:37:03,257 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-11 12:37:13,029 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-11 12:37:13,969 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-11 12:37:14,197 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-11 12:37:14,826 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 12:37:19,744 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 12:37:19,765 [main] INFO OrangeHRM - Launching url
+2025-07-11 12:37:26,607 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 12:37:35,845 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 12:37:36,662 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 12:37:56,762 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 12:37:58,756 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 12:38:02,021 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-11 12:38:11,960 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-11 12:38:12,527 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-11 12:38:12,936 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-11 12:38:13,838 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 12:38:18,272 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 12:38:18,293 [main] INFO OrangeHRM - Launching url
+2025-07-11 12:38:23,819 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 12:38:33,670 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 12:38:34,357 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 12:38:53,681 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 12:38:56,897 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 12:39:09,934 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-11 12:39:13,902 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 13:08:22,641 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 13:08:22,730 [main] INFO OrangeHRM - Launching url
+2025-07-11 13:08:29,007 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 13:08:37,954 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 13:08:38,769 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 13:08:57,178 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 13:08:59,210 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 13:09:01,976 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-11 13:09:08,306 [main] INFO OrangeHRM - ***** Entering full name *****
+2025-07-11 13:09:11,440 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-11 13:09:12,068 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-11 13:09:12,478 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-11 13:09:13,111 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 13:09:17,634 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 13:09:17,655 [main] INFO OrangeHRM - Launching url
+2025-07-11 13:09:24,130 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 13:09:34,331 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 13:09:35,108 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 13:09:53,305 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 13:09:55,312 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 13:09:58,307 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-11 13:10:08,149 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-11 13:10:09,050 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-11 13:10:09,329 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-11 13:10:10,585 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 13:10:15,062 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 13:10:15,088 [main] INFO OrangeHRM - Launching url
+2025-07-11 13:10:20,203 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 13:10:30,062 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 13:10:30,854 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 13:10:50,496 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 13:10:52,371 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 13:10:55,500 [main] INFO OrangeHRM - ***** Clicking on Add button *****
+2025-07-11 13:11:05,787 [main] INFO OrangeHRM - ***** Entering email *****
+2025-07-11 13:11:06,292 [main] INFO OrangeHRM - ***** Clicking on Save *****
+2025-07-11 13:11:06,591 [main] INFO OrangeHRM - ***** Verifying if success message is visible after applying for leave *****
+2025-07-11 13:11:07,484 [main] INFO OrangeHRM - ***** Closing the browser *****
+2025-07-11 13:11:12,270 [main] INFO OrangeHRM - ***** Launching browser *****
+2025-07-11 13:11:12,291 [main] INFO OrangeHRM - Launching url
+2025-07-11 13:11:19,211 [main] INFO OrangeHRM - ***** Entering email and password *****
+2025-07-11 13:11:29,785 [main] INFO OrangeHRM - ***** Click on LOG IN *****
+2025-07-11 13:11:30,728 [main] INFO OrangeHRM - ***** Verifying if the user dropdown exists after logging in *****
+2025-07-11 13:11:48,927 [main] INFO OrangeHRM - ***** Clicking on Recruitment module *****
+2025-07-11 13:11:50,918 [main] INFO OrangeHRM - ***** Verifying the existance of Recruitment page header after opening the Recruitment module *****
+2025-07-11 13:12:01,469 [main] INFO OrangeHRM - ***** Verifying if Vacancies header is visible after clicking on Vacancies section *****
+2025-07-11 13:12:05,463 [main] INFO OrangeHRM - ***** Closing the browser *****

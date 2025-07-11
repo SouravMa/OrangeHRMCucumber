@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 				 dryRun= false,
 				 monochrome= true,
 				 plugin= {"pretty", "html:/Users/sourav.majhi/eclipse-workspace/OrangeHRM/test-report/report.html"},
-				 tags= "")
+				 tags= "@CandidtaeRecruitment or @DDCandidtateRecruitment or @ListAllVacancies")
 public class TestRun {
 
 }

@@ -9,7 +9,8 @@ Feature: Recruitment section features
     Then We should see user dropdown
     When We click on Recruitment
     Then We should see the Recruitment header
-
+	
+	@CandidtaeRecruitment
   Scenario: Candidate application
   	When We click on Add button 
   	And User enters full name
@@ -18,13 +19,23 @@ Feature: Recruitment section features
   	Then User should see the success message
   	And Close the browser
 
-  #@tag2
-  #Scenario Outline: Title of your scenario outline
-    #Given I want to write a step with <name>
-    #When I check for the <value> in step
-    #Then I verify the <status> in step
-#
-    #Examples: 
-      #| name  | value | status  |
-      #| name1 |     5 | success |
-      #| name2 |     7 | Fail    |
+  @DDCandidtateRecruitment
+  Scenario Outline: Candidate application
+  	When We click on Add button 
+  	And User enters "<firstName>", "<middleName>" and "<lastName>" 
+  	And User enters "<email>"
+  	And User clicks on Save
+  	Then User should see the success message
+  	And Close the browser
+
+    Examples: 
+      | firstName  | middleName | lastName  | email |
+      | Baburao | Ganpatrao | Apte | babgandapt123@gmail.com |
+      | Lionel | Anres | Messi | liadnme098@gmail.com |
+      
+  @ListAllVacancies
+  Scenario: List all the existing vacancies
+  	When User clicks on Vacancies section
+  	Then User should see the Vacancies header
+  	Then All the vacancies get listed down
+  	And Close the browser
