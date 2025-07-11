@@ -60,9 +60,14 @@ public class LeavePage extends BasePage{
 	}
 	
 	public void selectLeaveType() {
-		waitForElement(leaveTypeDropdown, 30);
-		leaveTypeDropdown.click();
-		secondLeaveTypeOption.click();
+
+			// since it gives stale element exception sometimes:
+			WebElement leaveTypeDrodown1= driver.findElement(By.xpath("//div//div[text()= '-- Select --']"));	
+			
+			waitForElement(leaveTypeDrodown1, 30);
+			leaveTypeDrodown1.click();
+			secondLeaveTypeOption.click();
+		
 		}
 	
 	public void selectFromDate() {

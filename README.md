@@ -4,7 +4,7 @@ This project follows the Page Object Model (POM) design pattern and uses Gherkin
 
 **About the Project**:
 This project aims to:
-. Automate some of OrangeHRM's core functionalities: login-logout, PIM, Admin, Leave section functionalities etc
+. Automate some of OrangeHRM's core functionalities: login-logout, PIM, Admin, Leave, Recruitment section functionalities etc
 . Demonstrate behavior-driven development (BDD) using Cucumber  
 . Provide a reusable Page Object Model for maintainable tests
 

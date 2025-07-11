@@ -6,12 +6,12 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features= {"/Users/sourav.majhi/eclipse-workspace/OrangeHRM/Features/Recruitment.feature"},
+@CucumberOptions(features= {"/Users/sourav.majhi/eclipse-workspace/OrangeHRM/Features/Leave.feature"},
 				 glue= "stepDefinitions",
 				 dryRun= false,
 				 monochrome= true,
 				 plugin= {"pretty", "html:/Users/sourav.majhi/eclipse-workspace/OrangeHRM/test-report/report.html"},
-				 tags= "@CandidtaeRecruitment or @DDCandidtateRecruitment or @ListAllVacancies")
+				 tags= "")
 public class TestRun {
 
 }
